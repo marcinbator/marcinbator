@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,cs,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,angular,python,terraform,java,cs,flutter" />
   </a>
 </p>
 
