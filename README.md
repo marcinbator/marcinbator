@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,terraform,python,ts,cs,angular,nodejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,linux,terraform,python,ts,cs,angular,nodejs,flutter" />
   </a>
 </p>
